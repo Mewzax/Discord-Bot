@@ -25,7 +25,6 @@ const prefix = config.prefix;
 const token = config.token;
 
 // Global Variables
-client.embedcolor = embed;
 client.commands = new Collection();
 client.aliases = new Collection();
 client.events = new Collection();
